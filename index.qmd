@@ -4,7 +4,7 @@ title: "Rasyidah's cute animals blog"
 
 By: Rasyidah Mudzzaffar
 
-Website: [**https://rasyidahmudz.github.io/assignment-3-rm2344/**](https://rasyidahmudz.github.io/assignment-3-rm2344/)
+Website: [**https://rasyidahmudz.github.io/assignment-3-rm2344**](https://rasyidahmudz.github.io/assignment-3-rm2344)
 
 Collaborator: Charles Rogers
 
