@@ -1,7 +1,19 @@
 ---
-title: "assignment-3-rm2344"
+title: "Rasyidah's cute animals blog"
 ---
 
-This is a Quarto website.
+By: Rasyidah Mudzzaffar
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Website:
+
+Collaborator: Charles Rogers
+
+Website:
+
+![This is a cute fennec fox.](https://cdn.hswstatic.com/gif/gettyimages-85120553.jpg)
+
+![This is a cute rabbit.](https://static.vecteezy.com/system/resources/thumbnails/070/067/089/small/cute-bunny-eating-grass-in-a-lush-green-garden-free-photo.jpg)
+
+![This is a cute baby chick.](https://w0.peakpx.com/wallpaper/540/579/HD-wallpaper-cute-baby-yellow-chick-is-on-green-grass-with-yellow-flower-background-animals.jpg)
+
+![This is a cute baby giraffe.](https://pethelpful.com/.image/NDowMDAwMDAwMDAwMjQ5MDcy/baby-giraffe.png?profile=w2560&ar=16-9&x=50&y=31)
