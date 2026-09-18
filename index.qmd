@@ -4,11 +4,11 @@ title: "Rasyidah's cute animals blog"
 
 By: Rasyidah Mudzzaffar
 
-Website: [**https://rasyidahmudz.github.io/assignment-3-rm2344**](https://rasyidahmudz.github.io/assignment-3-rm2344)
+Website: [**https://github.com/rasyidahmudz**](https://github.com/rasyidahmudz)
 
 Collaborator: Charles Rogers
 
-Website:
+Website: [**https://github.com/Charleserogers**](https://github.com/Charleserogers)
 
 ![This is a cute fennec fox.](https://cdn.hswstatic.com/gif/gettyimages-85120553.jpg){width="800"}
 
